@@ -4,13 +4,22 @@
 
 The code in repository is for comparing interrupt latency on embedded devices under following circumstances:
 
-  *Xenomai version(if using dual-kernel real-time method)
-    2.6.4 or 3.0
-  *Hardware
+  * Xenomai version(if using dual-kernel real-time method) 
+  
+    2.6.4 or 3.0 
+    
+  * Hardware
+  
     Raspberry Pi or Beaglebone Black
-  *Latency level
+    
+  * Latency level
+  
     user-level or kernel-level
-  *Real-time method
+    
+  * Real-time method
+  
     PREEMPT_RT or Xenomai
-  *Driver model
+    
+  * Driver model
+  
     Linux-native or Real-Time Driver Mode(RTDM)

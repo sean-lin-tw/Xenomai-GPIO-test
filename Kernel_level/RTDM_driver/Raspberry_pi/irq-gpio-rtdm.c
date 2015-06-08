@@ -5,9 +5,9 @@
 
 #include <rtdm/rtdm_driver.h>
 
-// GPIO IN 23 -> Broche 16
+// BCM GPIO IN 23 -> Pin 16
 #define GPIO_IN  23
-// GPIO OUT 22 -> Broche 15
+// BCM GPIO OUT 22 -> Pin 15
 #define GPIO_OUT 22
 
 static rtdm_irq_t irq_rtdm;

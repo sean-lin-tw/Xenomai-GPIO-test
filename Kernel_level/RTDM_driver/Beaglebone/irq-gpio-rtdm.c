@@ -6,9 +6,9 @@ irq-gpio-rtdm.c
 
 #include <rtdm/rtdm_driver.h>
 
-// GPIO IN 23 -> Broche 16
+// GPIO IN 20 -> Pin 41
 #define GPIO_IN  20
-// GPIO OUT 22 -> Broche 15
+// GPIO OUT 7 -> Pin 42
 #define GPIO_OUT 7
 
 static rtdm_irq_t irq_rtdm;

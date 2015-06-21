@@ -23,3 +23,4 @@ The code in repository is for comparing interrupt latency on embedded devices un
   * Driver model
   
     Linux-native or Real-Time Driver Mode(RTDM)
+.
